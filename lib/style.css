@@ -1,0 +1,36 @@
+  div{
+
+    background-color: lightgrey;
+    margin: 10px;
+    display: inline-block;
+    width: 300px;
+  }
+
+#img{
+display: block;
+
+}
+html{
+
+  background-color: black;
+}
+
+h2{
+  color : red;
+  
+}
+.descripcion{
+  font-weight:bold;
+}
+#encabezado{
+color : red;
+background-color: black;
+border-style:solid ;
+
+}
+
+a[href="https://es.wikipedia.org/wiki/Neon_Genesis_Evangelion"]{
+color:blue;
+font-style: italic;
+  }
+
